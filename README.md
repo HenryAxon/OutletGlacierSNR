@@ -18,3 +18,6 @@ The exact same as the last script, but for the alternative method of SNR computa
 
 # PlottingSNRBasic.m
 The plotting script for SNR and its components. Amplification factor plots were created in a seperate file, but to make those plots and do that analysis is simply to divide by SNR of the forcing. 
+
+# AmpFactorAnalysis.m
+Just a file to perform the basic amplification factor analysis and plotting as done on my 2026 URS poster etc.
