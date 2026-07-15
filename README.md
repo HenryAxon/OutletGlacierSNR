@@ -15,3 +15,6 @@ This script reads in the outputs of the gate function, and then computes the SNR
 
 # SSA_SRN_Means_Control.m 
 The exact same as the last script, but for the alternative method of SNR computation.
+
+# PlottingSNRBasic.m
+The plotting script for SNR and its components. Amplification factor plots were created in a seperate file, but to make those plots and do that analysis is simply to divide by SNR of the forcing. 
